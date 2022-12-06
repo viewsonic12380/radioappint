@@ -4,4 +4,4 @@
 - 2 таблицы
 - 3 уровневая архитектура
 
-Стек: Java 8, GitHub/Git, Servlets, JSP, JSTL, Tomcat 10, JUnit5, JDBC, PostgreSQL, Maven.
+Стек: JDK11, Servlets, JSP, JSTL, Tomcat 10, JUnit5, JDBC, PostgreSQL, Maven
